@@ -22,7 +22,7 @@ Toronto/GTA residential and commercial cleaning (claims: since 2015, eco-friendl
 - Routes: `/`, `/about`, `/commercial`, `/contact`, `/faq`, `/pricing`, `/privacy-policy`, `/residential`, `/terms-of-use`.
 
 ## Deploy
-- No deploy workflow. Add the studio FTP workflow once the host is known.
+- No deploy workflow. Add the studio FTP workflow (copy `jacquesmofa/SANKOFA/.github/workflows/deploy.yml`) once the host is known.
 
 ## Where things live
 - Pages: `src/pages/<page>/` (one folder per page, sections in `components/`). Routes: `src/router/`.
