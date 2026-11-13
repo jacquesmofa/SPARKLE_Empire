@@ -16,7 +16,7 @@
         },
         {
           "src": "https://readdy.ai/api/search-image?query=empty%20apartment%20interior%20being%20professionally%20cleaned%20pristine%20white%20walls%20sparkling%20clean%20floors%20bright%20natural%20lighting%20spotless%20surfaces%20ready%20for%20new%20occupants%20modern%20minimalist%20space&width=800&height=600&seq=move2&orientation=landscape",
-          "alt": "Empty apartment interior being professionally cleaned pristine white walls sparkling clean floors bright natural lighting spotless"
+          "alt": "Empty apartment interior being professionally cleaned pristine white walls sparkling clean floors bright spotless"
         },
         {
           "src": "https://readdy.ai/api/search-image?query=newly%20renovated%20modern%20home%20interior%20being%20cleaned%20after%20construction%20pristine%20surfaces%20removing%20dust%20bright%20contemporary%20design%20spotless%20floors%20fresh%20paint%20clean%20windows&width=800&height=600&seq=reno1&orientation=landscape",
@@ -60,7 +60,7 @@
         },
         {
           "src": "https://readdy.ai/api/search-image?query=empty%20clean%20apartment%20interior%20with%20sparkling%20floors%20pristine%20white%20walls%20bright%20natural%20lighting%20spotless%20surfaces%20ready%20for%20new%20occupants%20modern%20minimalist%20space%20ultra%20high%20definition%208k%20quality&width=600&height=400&seq=move1&orientation=landscape",
-          "alt": "Empty clean apartment interior with sparkling floors pristine white walls bright natural lighting spotless surfaces ready"
+          "alt": "Empty clean apartment interior with sparkling floors pristine white walls bright spotless surfaces ready"
         },
         {
           "src": "https://readdy.ai/api/search-image?query=crystal%20clear%20windows%20with%20sparkling%20glass%20pristine%20carpet%20cleaning%20professional%20service%20bright%20natural%20light%20clean%20modern%20interior%20spotless%20surfaces%20ultra%20high%20definition%208k%20quality&width=600&height=400&seq=special1&orientation=landscape",
@@ -96,15 +96,15 @@
         },
         {
           "src": "https://readdy.ai/api/search-image?query=bright%20clean%20classroom%20interior%20with%20organized%20desks%20pristine%20floors%20natural%20lighting%20spotless%20learning%20environment%20modern%20educational%20facility%20well%20maintained%20space&width=600&height=450&seq=school1&orientation=landscape",
-          "alt": "Clean classroom interior with organized desks pristine floors natural lighting spotless learning environment modern educational facility"
+          "alt": "Clean classroom interior with organized desks pristine floors spotless learning environment modern educational facility"
         },
         {
           "src": "https://readdy.ai/api/search-image?query=luxurious%20hotel%20lobby%20interior%20with%20pristine%20marble%20floors%20sparkling%20clean%20surfaces%20elegant%20furniture%20bright%20natural%20lighting%20spotless%20professional%20hospitality%20environment&width=600&height=450&seq=hotel1&orientation=landscape",
-          "alt": "Luxurious hotel lobby interior with pristine marble floors sparkling clean surfaces elegant furniture bright natural lighting"
+          "alt": "Luxurious hotel lobby interior with pristine marble floors sparkling clean surfaces elegant furniture bright"
         },
         {
           "src": "https://readdy.ai/api/search-image?query=modern%20tech%20office%20interior%20with%20clean%20organized%20workspace%20bright%20natural%20lighting%20contemporary%20furniture%20spotless%20floors%20professional%20business%20environment%20happy%20employees%20working&width=800&height=600&seq=case1&orientation=landscape",
-          "alt": "Modern tech office interior with clean organized workspace bright natural lighting contemporary furniture spotless floors professional"
+          "alt": "Modern tech office interior with clean organized workspace bright contemporary furniture spotless floors"
         },
         {
           "src": "https://readdy.ai/api/search-image?query=pristine%20dental%20clinic%20interior%20with%20sterile%20white%20surfaces%20clean%20modern%20equipment%20bright%20professional%20lighting%20spotless%20examination%20area%20medical%20grade%20cleanliness&width=800&height=600&seq=case2&orientation=landscape",
