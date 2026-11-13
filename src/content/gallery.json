@@ -1,0 +1,168 @@
+{
+  "albums": [
+    {
+      "slug": "residential",
+      "title": "Homes",
+      "description": "Kitchens, bathrooms and living spaces after a Sparkle Empire clean.",
+      "alt": "Residential cleaning",
+      "photos": [
+        {
+          "src": "https://readdy.ai/api/search-image?query=modern%20living%20room%20being%20professionally%20cleaned%20with%20vacuum%20cleaner%20bright%20natural%20light%20through%20windows%20clean%20organized%20space%20contemporary%20furniture%20spotless%20floors%20fresh%20atmosphere&width=800&height=600&seq=maint1&orientation=landscape",
+          "alt": "Modern living room being professionally cleaned with vacuum cleaner bright natural light through windows clean organized"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=professional%20cleaner%20deep%20cleaning%20kitchen%20with%20eco%20friendly%20products%20scrubbing%20countertops%20pristine%20white%20surfaces%20stainless%20steel%20appliances%20bright%20lighting%20spotless%20clean%20environment&width=800&height=600&seq=deep1&orientation=landscape",
+          "alt": "Cleaner deep cleaning kitchen with eco friendly products scrubbing countertops pristine white surfaces stainless steel appliances"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=empty%20apartment%20interior%20being%20professionally%20cleaned%20pristine%20white%20walls%20sparkling%20clean%20floors%20bright%20natural%20lighting%20spotless%20surfaces%20ready%20for%20new%20occupants%20modern%20minimalist%20space&width=800&height=600&seq=move2&orientation=landscape",
+          "alt": "Empty apartment interior being professionally cleaned pristine white walls sparkling clean floors bright natural lighting spotless"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=newly%20renovated%20modern%20home%20interior%20being%20cleaned%20after%20construction%20pristine%20surfaces%20removing%20dust%20bright%20contemporary%20design%20spotless%20floors%20fresh%20paint%20clean%20windows&width=800&height=600&seq=reno1&orientation=landscape",
+          "alt": "Newly renovated modern home interior being cleaned after construction pristine surfaces removing dust bright contemporary design"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=bright%20sunny%20home%20interior%20spring%20cleaning%20fresh%20flowers%20open%20windows%20natural%20light%20streaming%20in%20clean%20organized%20space%20fresh%20atmosphere%20contemporary%20design%20spotless%20surfaces&width=800&height=600&seq=spring1&orientation=landscape",
+          "alt": "Sunny home interior spring cleaning fresh flowers open windows natural light streaming in clean organized space"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=happy%20family%20in%20pristine%20clean%20modern%20home%20bright%20natural%20light%20through%20large%20windows%20comfortable%20living%20room%20spotless%20surfaces%20contemporary%20furniture%20warm%20atmosphere%20joyful%20parents%20with%20children&width=1920&height=800&seq=reshero1&orientation=landscape",
+          "alt": "Happy family in pristine clean modern home bright natural light through large windows comfortable living room"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=luxurious%20modern%20Canadian%20home%20interior%20with%20floor%20to%20ceiling%20windows%20overlooking%20city%20skyline%20pristine%20clean%20living%20space%20bright%20natural%20sunlight%20streaming%20through%20crystal%20clear%20glass%20contemporary%20elegant%20furniture%20spotless%20white%20surfaces%20minimalist%20design%20high%20end%20residential%20property%20ultra%20high%20definition%208k%20quality&width=1920&height=1080&seq=hero1&orientation=landscape",
+          "alt": "Luxurious modern Canadian home interior with floor to ceiling windows overlooking city skyline pristine clean living"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=immaculate%20sparkling%20clean%20modern%20kitchen%20with%20gleaming%20white%20marble%20countertops%20stainless%20steel%20appliances%20crystal%20clear%20windows%20bright%20natural%20light%20pristine%20surfaces%20spotless%20interior%20ultra%20high%20definition%208k%20quality&width=1920&height=1080&seq=hero2&orientation=landscape",
+          "alt": "Immaculate sparkling clean modern kitchen with gleaming white marble countertops stainless steel appliances crystal clear windows"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=pristine%20luxury%20bathroom%20with%20sparkling%20clean%20glass%20shower%20gleaming%20chrome%20fixtures%20white%20marble%20tiles%20bright%20natural%20light%20immaculate%20surfaces%20spotless%20modern%20design%20ultra%20high%20definition%208k%20quality&width=1920&height=1080&seq=hero3&orientation=landscape",
+          "alt": "Pristine luxury bathroom with sparkling clean glass shower gleaming chrome fixtures white marble tiles bright natural"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=spotless%20modern%20office%20space%20with%20floor%20to%20ceiling%20windows%20city%20view%20pristine%20clean%20desks%20organized%20workspace%20bright%20lighting%20professional%20environment%20immaculate%20surfaces%20ultra%20high%20definition%208k%20quality&width=1920&height=1080&seq=hero4&orientation=landscape",
+          "alt": "Spotless modern office space with floor to ceiling windows city view pristine clean desks organized workspace"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=beautiful%20clean%20living%20room%20with%20sparkling%20hardwood%20floors%20pristine%20white%20walls%20bright%20natural%20sunlight%20through%20large%20windows%20contemporary%20furniture%20spotless%20surfaces%20ultra%20high%20definition%208k%20quality&width=1920&height=1080&seq=hero5&orientation=landscape",
+          "alt": "Clean living room with sparkling hardwood floors pristine white walls bright natural sunlight through large windows"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=pristine%20modern%20living%20room%20with%20sparkling%20clean%20surfaces%20bright%20natural%20light%20through%20large%20windows%20minimalist%20elegant%20interior%20design%20white%20walls%20spotless%20floors%20contemporary%20furniture%20ultra%20high%20definition%208k%20quality&width=600&height=400&seq=home1&orientation=landscape",
+          "alt": "Pristine modern living room with sparkling clean surfaces bright natural light through large windows minimalist elegant"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=immaculate%20modern%20office%20space%20with%20clean%20desks%20organized%20workspace%20bright%20lighting%20glass%20walls%20professional%20business%20environment%20spotless%20floors%20contemporary%20design%20ultra%20high%20definition%208k%20quality&width=600&height=400&seq=office1&orientation=landscape",
+          "alt": "Immaculate modern office space with clean desks organized workspace bright lighting glass walls professional business environment"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=empty%20clean%20apartment%20interior%20with%20sparkling%20floors%20pristine%20white%20walls%20bright%20natural%20lighting%20spotless%20surfaces%20ready%20for%20new%20occupants%20modern%20minimalist%20space%20ultra%20high%20definition%208k%20quality&width=600&height=400&seq=move1&orientation=landscape",
+          "alt": "Empty clean apartment interior with sparkling floors pristine white walls bright natural lighting spotless surfaces ready"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=crystal%20clear%20windows%20with%20sparkling%20glass%20pristine%20carpet%20cleaning%20professional%20service%20bright%20natural%20light%20clean%20modern%20interior%20spotless%20surfaces%20ultra%20high%20definition%208k%20quality&width=600&height=400&seq=special1&orientation=landscape",
+          "alt": "Crystal clear windows with sparkling glass pristine carpet cleaning professional service bright natural light clean modern"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=looping%20video%20of%20sparkling%20clean%20surfaces%20gleaming%20windows%20pristine%20modern%20interior%20bright%20natural%20light%20professional%20cleaning%20results%20ultra%20high%20definition&width=1920&height=1080&seq=herovideo&orientation=landscape",
+          "alt": "Looping video of sparkling clean surfaces gleaming windows pristine modern interior bright natural light professional cleaning"
+        }
+      ]
+    },
+    {
+      "slug": "commercial",
+      "title": "Offices & Commercial",
+      "description": "Offices, retail and shared spaces kept spotless.",
+      "alt": "Commercial cleaning",
+      "photos": [
+        {
+          "src": "https://readdy.ai/api/search-image?query=modern%20corporate%20office%20building%20interior%20with%20clean%20glass%20walls%20organized%20desks%20pristine%20floors%20bright%20professional%20workspace%20contemporary%20furniture%20spotless%20environment%20business%20setting&width=600&height=450&seq=office2&orientation=landscape",
+          "alt": "Modern corporate office building interior with clean glass walls organized desks pristine floors bright professional workspace"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=pristine%20medical%20clinic%20interior%20with%20sterile%20white%20surfaces%20clean%20examination%20rooms%20bright%20lighting%20professional%20healthcare%20environment%20spotless%20floors%20modern%20medical%20equipment&width=600&height=450&seq=medical1&orientation=landscape",
+          "alt": "Pristine medical clinic interior with sterile white surfaces clean examination rooms bright lighting professional healthcare environment"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=clean%20modern%20retail%20store%20interior%20with%20spotless%20display%20areas%20organized%20shelves%20bright%20lighting%20pristine%20floors%20contemporary%20design%20welcoming%20shopping%20environment&width=600&height=450&seq=retail1&orientation=landscape",
+          "alt": "Clean modern retail store interior with spotless display areas organized shelves bright lighting pristine floors contemporary"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=clean%20industrial%20warehouse%20interior%20with%20organized%20workspace%20spotless%20concrete%20floors%20bright%20overhead%20lighting%20professional%20manufacturing%20environment%20well%20maintained%20facility&width=600&height=450&seq=industrial1&orientation=landscape",
+          "alt": "Clean industrial warehouse interior with organized workspace spotless concrete floors bright overhead lighting professional manufacturing environment"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=bright%20clean%20classroom%20interior%20with%20organized%20desks%20pristine%20floors%20natural%20lighting%20spotless%20learning%20environment%20modern%20educational%20facility%20well%20maintained%20space&width=600&height=450&seq=school1&orientation=landscape",
+          "alt": "Clean classroom interior with organized desks pristine floors natural lighting spotless learning environment modern educational facility"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=luxurious%20hotel%20lobby%20interior%20with%20pristine%20marble%20floors%20sparkling%20clean%20surfaces%20elegant%20furniture%20bright%20natural%20lighting%20spotless%20professional%20hospitality%20environment&width=600&height=450&seq=hotel1&orientation=landscape",
+          "alt": "Luxurious hotel lobby interior with pristine marble floors sparkling clean surfaces elegant furniture bright natural lighting"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=modern%20tech%20office%20interior%20with%20clean%20organized%20workspace%20bright%20natural%20lighting%20contemporary%20furniture%20spotless%20floors%20professional%20business%20environment%20happy%20employees%20working&width=800&height=600&seq=case1&orientation=landscape",
+          "alt": "Modern tech office interior with clean organized workspace bright natural lighting contemporary furniture spotless floors professional"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=pristine%20dental%20clinic%20interior%20with%20sterile%20white%20surfaces%20clean%20modern%20equipment%20bright%20professional%20lighting%20spotless%20examination%20area%20medical%20grade%20cleanliness&width=800&height=600&seq=case2&orientation=landscape",
+          "alt": "Pristine dental clinic interior with sterile white surfaces clean modern equipment bright professional lighting spotless examination"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=elegant%20boutique%20retail%20store%20interior%20with%20spotless%20display%20areas%20pristine%20floors%20bright%20lighting%20clean%20organized%20merchandise%20contemporary%20design%20welcoming%20shopping%20environment&width=800&height=600&seq=case3&orientation=landscape",
+          "alt": "Elegant boutique retail store interior with spotless display areas pristine floors bright lighting clean organized merchandise"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=modern%20corporate%20office%20building%20exterior%20with%20glass%20facade%20Toronto%20skyline%20professional%20business%20district%20pristine%20clean%20windows%20contemporary%20architecture%20bright%20daylight%20urban%20setting&width=1920&height=800&seq=comhero1&orientation=landscape",
+          "alt": "Modern corporate office building exterior with glass facade Toronto skyline professional business district pristine clean windows"
+        }
+      ]
+    },
+    {
+      "slug": "about",
+      "title": "Behind the Scenes",
+      "description": "Our equipment, products and process.",
+      "alt": "Sparkle Empire behind the scenes",
+      "photos": [
+        {
+          "src": "https://readdy.ai/api/search-image?query=professional%20cleaning%20team%20members%20in%20branded%20uniforms%20smiling%20together%20modern%20office%20background%20diverse%20group%20happy%20employees&width=300&height=400&seq=teamcol1&orientation=portrait",
+          "alt": "Cleaning team members in branded uniforms smiling together modern office background diverse group happy employees"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=professional%20cleaner%20working%20in%20modern%20home%20with%20eco%20friendly%20products%20bright%20clean%20environment%20quality%20service&width=300&height=500&seq=teamcol2&orientation=portrait",
+          "alt": "Cleaner working in modern home with eco friendly products bright clean environment quality service"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=happy%20satisfied%20customer%20in%20pristine%20clean%20home%20smiling%20bright%20natural%20light%20modern%20interior%20spotless%20environment&width=300&height=500&seq=teamcol3&orientation=portrait",
+          "alt": "Happy satisfied customer in pristine clean home smiling bright natural light modern interior spotless environment"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=cleaning%20team%20training%20session%20professional%20development%20modern%20facility%20learning%20environment%20quality%20standards&width=300&height=400&seq=teamcol4&orientation=portrait",
+          "alt": "Cleaning team training session professional development modern facility learning environment quality standards"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=business%20awards%20ceremony%20trophy%20recognition%20professional%20achievement%20celebration%20corporate%20event%20elegant%20setting&width=600&height=400&seq=awards1&orientation=landscape",
+          "alt": "Business awards ceremony trophy recognition professional achievement celebration corporate event elegant setting"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=volunteers%20helping%20community%20charity%20work%20cleaning%20service%20team%20giving%20back%20happy%20people%20working%20together&width=300&height=400&seq=comm1&orientation=portrait",
+          "alt": "Volunteers helping community charity work cleaning service team giving back happy people working together"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=environmental%20cleanup%20volunteers%20planting%20trees%20green%20initiative%20community%20involvement%20outdoor%20activity&width=300&height=500&seq=comm2&orientation=portrait",
+          "alt": "Environmental cleanup volunteers planting trees green initiative community involvement outdoor activity"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=youth%20training%20program%20learning%20skills%20professional%20development%20mentorship%20young%20people%20education&width=300&height=500&seq=comm3&orientation=portrait",
+          "alt": "Youth training program learning skills professional development mentorship young people education"
+        },
+        {
+          "src": "https://readdy.ai/api/search-image?query=community%20center%20volunteers%20helping%20seniors%20charity%20work%20compassionate%20service%20caring%20people&width=300&height=400&seq=comm4&orientation=portrait",
+          "alt": "Community center volunteers helping seniors charity work compassionate service caring people"
+        }
+      ]
+    }
+  ]
+}

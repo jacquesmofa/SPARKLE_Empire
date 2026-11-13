@@ -8,6 +8,7 @@ const CommercialPage = lazy(() => import('../pages/commercial/page'));
 const PricingPage = lazy(() => import('../pages/pricing/page'));
 const AboutPage = lazy(() => import('../pages/about/page'));
 const FAQPage = lazy(() => import('../pages/faq/page'));
+const GalleryPage = lazy(() => import('../pages/gallery/page'));
 const ContactPage = lazy(() => import('../pages/contact/page'));
 const PrivacyPolicyPage = lazy(() => import('../pages/privacy-policy/page'));
 const TermsOfUsePage = lazy(() => import('../pages/terms-of-use/page'));
@@ -37,6 +38,10 @@ const routes: RouteObject[] = [
   {
     path: '/faq',
     element: <FAQPage />,
+  },
+  {
+    path: '/gallery',
+    element: <GalleryPage />,
   },
   {
     path: '/contact',
